@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog hiii
-ldgjnbdfjgnhdl;fkgnbl;dfg
+data: 2025/1/16
 ---
 
